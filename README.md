@@ -10,11 +10,7 @@ This challenge we had to make a password generator that allows different set of 
 
 # Getting Started
 
-In order to run this project you need to click on this link:https://seanshin0821.github.io/Password-generator-/
-# Demo
-
-
-## ![Instructions](./assets/images/instructions.png)
+In order to run this project you need to click on this link:
 
 # 03 JavaScript: Password Generator
 
@@ -51,8 +47,6 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 The following image demonstrates the application functionality:
-
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
 
 ## Review
 
