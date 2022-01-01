@@ -13,9 +13,6 @@ This challenge we had to make a password generator that allows different set of 
 In order to run this project you need to click on this link:https://seanshin0821.github.io/Password-generator-/
 # Demo
 
-## ![Demo](./assets/images/demo.png)
-
-# How To Use App:
 
 ## ![Instructions](./assets/images/instructions.png)
 
