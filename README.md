@@ -8,10 +8,6 @@ This challenge we had to make a password generator that allows different set of 
 - CSS
 - JavaScript
 
-# Getting Started
-
-In order to run this project you need to click on this link:
-
 # 03 JavaScript: Password Generator
 
 Create an application that generates a random password based on user-selected criteria. The app runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. It has a clean and polished user interface and is responsive, which ensures that it adapts to multiple screen sizes.
